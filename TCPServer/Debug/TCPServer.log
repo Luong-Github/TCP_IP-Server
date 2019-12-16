@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\visual software\web\web html,css,js\tcpserver\tcpserver\main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  TCPServer.vcxproj -> E:\Visual Software\WEB\WEB HTML,CSS,JS\TCPServer\Debug\TCPServer.exe
